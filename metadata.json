@@ -1,0 +1,5 @@
+{
+  "name": "DocuAid AI – Government Scheme Navigator",
+  "description": "An OpenEnv-compatible AI environment for simulating government scheme navigation tasks.",
+  "requestFramePermissions": []
+}
